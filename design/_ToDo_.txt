@@ -1,0 +1,10 @@
+Dossier à fournir :
+
+  - MCD
+  - Maquettage
+  - Captures d'écran de l'application
+  - Explication sur le schéma de code adopté (Design Pattern : MVC)
+  - Un exemple de :
+	- Modèle
+	- Vue
+	- Contrôleur
